@@ -31,7 +31,7 @@
 }
 
 html,body{
-    background-image:url(https://xavier192.github.io/img/pattern-background-desktop.svg);
+    background-image:url(https://xavier192.github.io/order-summary-challange/img/pattern-background-desktop.svg);
     background-size:cover;
     background-repeat:no-repeat;
     background-color:var(--pale-blue);
@@ -180,7 +180,7 @@ body{
 
 @media screen and (max-width: 600px){
     html,body{
-        background-image:url(https://xavier192.github.io/img/pattern-background-mobile.svg);
+        background-image:url(https://xavier192.github.io/order-summary-challange/img/pattern-background-mobile.svg);
     }
 
     .summary{
