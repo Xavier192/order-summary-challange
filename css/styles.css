@@ -180,7 +180,7 @@ body{
 
 @media screen and (max-width: 600px){
     html,body{
-        background-image:url(../img/pattern-background-mobile.svg);
+        background-image:url(https://xavier192.github.io/img/pattern-background-mobile.svg);
     }
 
     .summary{
