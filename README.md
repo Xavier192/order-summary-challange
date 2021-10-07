@@ -56,5 +56,5 @@ body {
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Xavier192)
+- Frontend Mentor - [@Xavier192](https://www.frontendmentor.io/profile/Xavier192)
 
